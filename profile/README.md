@@ -1,12 +1,28 @@
-## Hi there 👋
+Asterisk Digital AS
 
-<!--
+Making data accessible, actionable, and AI-ready.
+We help organizations transform raw data into secure, structured, and insight-driven systems.
 
-**Here are some ideas to get you started:**
+What We Do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Diagnostics → Assess data and systems
+
+Preparation → Clean, structure, and validate
+
+Execution → Build data infrastructure & applications
+
+Expertise
+
+Data Warehousing & ETL Pipelines
+
+Dashboards, Web & Mobile Applications
+
+Security, Encryption & GDPR Compliance
+
+Contact
+
+🌐 asterisk.digital
+
+✉️ contact@asterisk.digital
+
+📍 Oslo, Norway
